@@ -1,0 +1,8 @@
+streamlit
+httpx
+jmespath
+npm
+plotly
+matplotlib
+sendgrid
+Pillow
